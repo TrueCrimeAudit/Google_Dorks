@@ -349,22 +349,3 @@ This document lists various Google dorks—including search operators, general d
 
 ### 🗃️ Additional Configuration Files
 - `filetype:env intext:AWS_SECRET_ACCESS_KEY`
-
----
-
-## 7. Repository Usage
-
-To get even more Google dorks:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/ishanoshada/GDorks.git
-   ```
-2. **Explore the File:**
-   - Open the `dorks.txt` file in your favorite text editor to view the complete list.
-3. **Use Responsibly:**
-   - Always use these queries ethically and within legal boundaries.
-
----
-
-*Happy Googling (and stay safe)!*
