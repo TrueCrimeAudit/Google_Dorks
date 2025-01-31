@@ -1,10 +1,6 @@
-Below is an example Markdown document that organizes the provided Google dorks into sections with bullet/numbered lists. You can copy, paste, and adjust as needed.
-
----
-
 # Google Dorks Reference
 
-This document lists various Google dorks—including search operators, general dorks, vulnerability searches, and categorized examples—to help you refine your Google searches. **Use these responsibly and legally.**
+This document lists various Google dorks—including search operators, general dorks, vulnerability searches, and categorized examples—to help you refine your Google searches. You can find another dorks at https://gdork-web.vercel.app/ and also the congressional replublican roster. 
 
 ---
 
